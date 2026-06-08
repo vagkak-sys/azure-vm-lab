@@ -1,0 +1,20 @@
+Resource Group: rg-azure-lab
+VNET: vnet-lab-prod
+Subnet: snet-servers
+NSG: nsg-servers-prod
+VM: vm-dc2025-lab
+
+Tasks Completed:
+- Created Resource Group
+- Created Virtual Network
+- Created Subnet
+- Created NSG
+- Added RDP rule
+- Deployed Windows Server VM
+- Connected using RDP
+
+Lessons Learned:
+- Azure Resource Group structure
+- NSG basics
+- Azure networking fundamentals
+- Public vs Private IP
